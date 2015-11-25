@@ -1,0 +1,14 @@
+//
+//  xmpp.pch
+//  WeChat
+//
+//  Created by imac on 15/11/16.
+//  Copyright (c) 2015年 JayWon. All rights reserved.
+//
+
+#ifndef WeChat_xmpp_pch
+#define WeChat_xmpp_pch
+
+#import <UIKit/UIKit.h>
+#import "XMPPFramework.h"
+#endif
